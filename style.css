@@ -199,3 +199,8 @@ nav ul li:nth-child(n+2) a:hover{
     font-family: sans-serif;
     font-size: 28px;
 }
+
+.accomodation .img{
+    position: relative;
+    
+}
