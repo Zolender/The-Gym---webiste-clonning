@@ -84,5 +84,20 @@ nav ul li:nth-child(n+2) a:hover{
     background-size: cover;
     background-position: center;
     margin-top: -70px;
+    display: flex;
+    align-items: center;
+    
+}
 
+.hero-container{
+    width: 80%;
+    margin: auto;
+    border: 2px solid black;
+}
+
+.hero-container h1{
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: sans-serif;
 }
