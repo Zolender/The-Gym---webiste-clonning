@@ -143,3 +143,45 @@ nav ul li:nth-child(n+2) a:hover{
     cursor: pointer;
     background-color: rgb(49, 49, 180);
 }
+
+
+
+.register{
+    background-color: rgb(22, 22, 65);
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40%;
+    margin: 20px auto;
+    border-radius: 20px;
+    height: 70px;
+    padding: 5px;
+}
+
+.register p{
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.register .button1{
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.register .c2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.register .icon{
+    background-color: rgb(46, 127, 226);
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin-right: 0;
+    padding: 7px;
+}
