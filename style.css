@@ -79,9 +79,10 @@ nav ul li:nth-child(n+2) a:hover{
     z-index: -1;
     height: 80vh;
     width: 100%;
-    background-image: url("./assets/VRBO_APFT2_BARCELONA_THERIN_HOUSE_2_4605_1.jpeg");
+    background-image: linear-gradient(rgba(16, 16, 16, 0.307)), url("./assets/VRBO_APFT2_BARCELONA_THERIN_HOUSE_2_4605_1.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     margin-top: -70px;
+
 }
