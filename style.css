@@ -3,7 +3,6 @@ html{
 }
 
 body{
-    background-color: aqua;
     margin: 0;
     padding: 0;
 }
@@ -15,7 +14,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
 }
 
 nav{
@@ -76,5 +75,13 @@ nav ul li:nth-child(n+2) a:hover{
 
 
 .hero{
-    margin-top: ;
+    position: relative;
+    z-index: -1;
+    height: 80vh;
+    width: 100%;
+    background-image: url("./assets/VRBO_APFT2_BARCELONA_THERIN_HOUSE_2_4605_1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: -70px;
 }
